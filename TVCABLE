@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="DEPORTES",TNT Sports HD
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="DEPORTES",TNT Sports HD
 
 https://cl-cdf-tv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4MTMxNTM2LCJzZXNzaW9uIjoiNWU0MDc5YWJiOTY3NzcwZGE5ZTg3NDk0Iiwid2hpdGVsaXN0IjpbIjE5MC40NS4zNC4yNCJdfSwic2lnbmF0dXJlIjoiMjYyZGUxMDYzOTQwNWI4MWRjNGE4NTg0NmYxOGIxYzBjNTJlNTViMiJ9saXN0IjpbIjE5MC40NS4zNC4yNCJdfSwic2lnbmF0dXJlIjoiNzk1MmViMjUzOTExZDk1NmIxMDg2OGIwMmM1N2ZjZTI2MWY5OTcwYiJ9
 
